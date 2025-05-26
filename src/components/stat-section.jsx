@@ -5,7 +5,7 @@ function StatSection() {
   return (
     <section className="py-16">
       <div className="bg-[url(/BackgroundMI.png)] bg-fixed flex-col md:flex-row">
-        <div className="grid grid-cols-2 md:grid-cols-4 items-center text-center bg-black/70 backdrop-blur-sm mx-auto py-16 ">
+        <div className="grid grid-cols-2 gitmd:grid-cols-4 items-center text-center bg-black/70 backdrop-blur-sm mx-auto py-16 ">
           <div className="font-bold text-white">
             <h1 className="text-5xl">90+</h1>
             <p>Pendaftar</p>
